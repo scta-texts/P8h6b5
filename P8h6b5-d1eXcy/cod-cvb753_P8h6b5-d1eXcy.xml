@@ -57,16 +57,16 @@
       </div>
     </front>
     <body>
-      <div>
-        <div type="chapter">
-          <head>Prefatio</head>
+      <div xml:id="P8h6b5-d1eXcy">
+        <div xml:id="P8h6b5-d1eXcy-Dd1e112" type="chapter">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e114">Prefatio</head>
           
-          <p ana="heading">
+          <p xml:id="P8h6b5-d1eXcy-d1e117" ana="heading">
             <pb ed="#P" n="25"/>
-            <lb ed="#P" n="1"/>Incipit <title>Isagoge</title> <name>Porphyrii</name>
+            <lb ed="#P" n="1"/>Incipit <title>Isagoge</title> <name xml:id="P8h6b5-d1eXcy-Nd1e126">Porphyrii</name>
           </p>
           
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e130">
             <lb ed="#P" n="2"/>Cum sit necessarium, Chrysaori, et ad eam quae est apud
             Ari<lb ed="#P" n="3" break="no"/>stotelem praedicamentorum doctrinam nosse, quid genus sit et quid
             <lb ed="#P" n="4"/>differentia quidque species et quid proprium et quid accidens, et ad
@@ -85,9 +85,9 @@
           </p>
         </div>
         
-        <div type="chapter">
-          <head>De genere</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e166" type="chapter">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e168">De genere</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e171">
             <pb ed="#P" n="26"/>
             <lb ed="#P" n="2"/>Videtur autem tiequc genus neque species simpliciter dici, genus
             <lb ed="#P" n="3"/>enim dicitur et aliquorum quodammodo se habentium ad unum
@@ -113,7 +113,7 @@
             conti<lb ed="#P" n="23" break="no"/>nere omnem quae sub eo est.
           </p>
           
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e223">
             <lb ed="#P" n="24"/>Tripliciter igitur cum genus dicatur, de tertio apud philosophos
             <lb ed="#P" n="25"/>sermo est. quod etiam describentes adsignaverunt genus esse dicentes,
             <pb ed="#P" n="27"/>
@@ -158,9 +158,9 @@
         </div>
         
         
-        <div type="chapter">
-          <head>De specie</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e313" type="chapter">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e315">De specie</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e318">
             <lb ed="#P" n="16"/>Species autem dicitur quidem et de uniuscuiusque forma,
             secun<lb ed="#P" n="17" break="no"/>dum quam dictum est: "Priami quidem species digna est imperio";
             <lb ed="#P" n="19"/>dicitur autem species et ea, quac est sub adsignato genere, secundum
@@ -186,7 +186,7 @@
             <lb ed="#P" n="13"/>sunt eadem, ad aliud quidem et ad aliud sumpta.
           </p>
           
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e370">
             <lb ed="#P" n="14"/>Sit autem in uno praedicamento manifestum quod dicitur.
             sub<lb ed="#P" n="15" break="no"/>stantia est quidem et ipsa genus, sub hac autem est
             cor<lb ed="#P" n="16" break="no"/>pus, sub corpore vero animatum corpus, sub quo animal, sub animali rationale
@@ -221,7 +221,7 @@
             su<lb ed="#P" n="20" break="no"/>periorum, velut quue ab eis contineatur.
           </p>
           
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e443">
             <lb ed="#P" n="21"/>Determinant ergo generalissimum ita, quod cum genus sit non
             <lb ed="#P" n="22"/>est species, et rursus, supra quod non erit aliud superveniens genus;
             <lb ed="#P" n="23"/>specialissimum vero, quod cum sit species non est genus et quod cum
@@ -258,7 +258,7 @@
             <lb ed="#P" n="8"/>singulare est, collectivum autem et adunativum quod commune est.
           </p>
           
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e521">
             <lb ed="#P" n="9"/>Adsignato autem genere et specie quod est utrumque et genere
             <lb ed="#P" n="10"/>quidem uno, speciebus vero pluribus, semper enim in plures species
             <lb ed="#P" n="11"/>divisio generis est, genus quidem semper de specie praedicatur et
@@ -292,7 +292,7 @@
             <lb ed="#P" n="13"/>et pars, sed pars quidem alterius, totum autem non alterius sed aliis;
             <lb ed="#P" n="14"/>partibus enim totum est.
           </p>
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e595">
             <lb ed="#P" n="15" break="no"/>De genere quidem et specie, et quid generalissimum et quid
             <lb ed="#P" n="16"/>specialissimum et quae genera eadem et species sunt, quae etiam
             in<lb ed="#P" n="17" break="no"/>dividua et quot modis genus et species dicitur, sufficienter dictum est.
@@ -300,9 +300,9 @@
         </div>
         
         
-        <div type="chapter">
-          <head>De differentia</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e605" type="chapter">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e607">De differentia</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e610">
             <lb ed="#P" n="19"/>Differentia vero communiter et proprie et magis proprie dicitur.
             <lb ed="#P" n="20"/>communiter quidem differre alterum ab altero dicitur, quod alteritate
             <lb ed="#P" n="21"/>quadam differt quocunque modo vel a se ipso vel ab alio. differt
@@ -329,7 +329,7 @@
             <lb ed="#P" n="19"/>habendi permutationes.
           </p>
           
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e665">
             <lb ed="#P" n="20"/>A superioribus ergo rursus inchoanti dicendum est, differentiarum 
             <lb ed="#P" n="21"/>alias quidem esse separabiles, alias vero inseparabiles. moveri enim
             <pb ed="#P" n="35"/>
@@ -352,7 +352,7 @@
             <lb ed="#P" n="17"/>et remittitur.
           </p>
           
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e711">
             <lb ed="#P" n="18"/>Cum igitur tres species differentiae considerentur et cum hae
             <lb ed="#P" n="19"/>quidem sint separabiles illae vero inseparabiles et rursus
             insepara<lb ed="#P" n="20" break="no"/>bilium cum hae quidem sint per se illae vero per accidens, rursus
@@ -381,7 +381,7 @@
             <lb ed="#P" n="19"/>nec magis his quae sunt separabiles.
           </p>
           
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e770">
             <lb ed="#P" n="20"/>Quas etiam determinantes dicunt: differentia est qua abundat
             <lb ed="#P" n="21"/>species a genere, homo enim ab animali plus habet rationale
             <lb ed="#P" n="22"/>et mortale, animal enim neque ipsum nihil horum est, nam unde
@@ -392,7 +392,7 @@
             <lb ed="#P" n="5"/>idem sunt.
           </p>
           
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e792">
             <lb ed="#P" n="6"/>Diffiniunt autem eam et hoc modo: differentia est, quod de
             plu<lb ed="#P" n="7" break="no"/>ribus et differentibus specie in eo quod quale sit praedicatur;
             ratio<lb ed="#P" n="8" break="no"/>nale enim et mortale de homine praedicatum in eo quod quale
@@ -407,7 +407,7 @@
             <lb ed="#P" n="17"/>mortale homo est, quemadmodum illic statua.
           </p>
           
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e821">
             <lb ed="#P" n="18"/>Describunt autem huiusmodi differentias et hoc modo: differentia
             <lb ed="#P" n="19"/>est, quod aptum natum est dividere quae sub eodem sunt genere;
             <lb ed="#P" n="20"/>rationale enim et inrationale hominem et equum, quae sub eodem
@@ -428,15 +428,15 @@
             <lb ed="#P" n="15"/>igitur specificae differentiae, quaecunque alteram faciunt speciem et
             <lb ed="#P" n="16"/>quaecunque in eo quod quale est accipiuntur.
           </p>
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e866">
             <lb ed="#P" n="17"/>Et de differentiis quidem ista sufficiunt.
           </p>
         </div>
         
         
-        <div type="chapter">
-          <head>De proprio</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e872" type="chapter">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e874">De proprio</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e877">
             <lb ed="#P" n="19"/>Proprium vero quadrifariam dividunt; nam et id quod soli
             ali<lb ed="#P" n="20" break="no"/>cui speciei accidit, et si non omni, ut homini medicum esse vel
             geo<pb ed="#P" n="39" break="no"/><lb ed="#P" n="1" break="no"/>metram, et quod omni accidit, et si non soli. quemadmodum homini
@@ -452,9 +452,9 @@
         </div>
         
         
-        <div>
-          <head>De accidenti</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e906">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e908">De accidenti</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e911">
             <lb ed="#P" n="11"/>Accidens vero est, quod adest et abest praeter subiecti
             corrup<lb ed="#P" n="12" break="no"/>tionem. dividitur autem in duo, in separabile et in inseparabile.
             <lb ed="#P" n="13"/>nam dormire separabile accidens est, nigrum vero esse inseparabiliter
@@ -464,7 +464,7 @@
             <lb ed="#P" n="17"/>esse, vel quod neque genus neque species neque differentia neque
             <lb ed="#P" n="18"/>proprium, semper autem est in subiecto subsistens.
           </p>
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e931">
             <lb ed="#P" n="19"/>Omnibus igitur determinatis quae proposita sunt, dico autem
             ge<lb ed="#P" n="20" break="no"/>nere, specie, differentia, proprio, accidenti, dicendum est, quae his
             <lb ed="#P" n="21"/>communia adsint et quae propria.
@@ -472,9 +472,9 @@
         </div>
         
         
-        <div>
-          <head>De communibus generis, speciei, differentiae, proprii et accidentis</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e941">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e943">De communibus generis, speciei, differentiae, proprii et accidentis</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e946">
             <pb ed="#P" n="40"/>
             <lb ed="#P" n="2"/>Commune quidem omnibus est de pluribus praedicari, sed
             ge<lb ed="#P" n="3" break="no"/>nus quidem de speciebus et de individius, et differentia similiter,
@@ -495,9 +495,9 @@
         </div>
         
         
-        <div>
-          <head>De communibus generis et differentiae</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e984">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e986">De communibus generis et differentiae</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e989">
             <lb ed="#P" n="18"/>Commune autem generi et differentiae continentia specierum.
             <lb ed="#P" n="19"/>continet enim et differentia species, etsi non omnes quot genera.
             ra<lb ed="#P" n="20" break="no"/>tionale enim etiamsi non continet ea quae sunt inrationabilia, ut
@@ -520,9 +520,9 @@
         </div>
         
         
-        <div>
-          <head>De propriis generis et differentiae</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1032">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1034">De propriis generis et differentiae</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1037">
             <lb ed="#P" n="14"/>Proprium autem generis est de pluribus praedicari, quam
             diffe<lb ed="#P" n="15" break="no"/>rentia et species et proprium et accidens; animal enim de homine et
             <lb ed="#P" n="16"/>equo et ave et serpente, quadrupes vero de solis quattuor pedes
@@ -548,9 +548,9 @@
         </div>
         
         
-        <div>
-          <head>De communibus generis et speciei</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1087">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1089">De communibus generis et speciei</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1092">
             <lb ed="#P" n="16"/>Genus autem et species commune quidem habent de pluribus,
             <lb ed="#P" n="17"/>quemadmodum dictum est, praedicari, sumatur autem species ut
             spe<lb ed="#P" n="18" break="no"/>cies et non etiam ut genus, si fuerit idem species et genus.
@@ -560,9 +560,9 @@
         </div>
         
         
-        <div>
-          <head>De propriis generis et speciei</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1106">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1108">De propriis generis et speciei</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1111">
             <lb ed="#P" n="22"/>Differt autem eo quod genus quidem continet species sub se,
             <pb ed="#P" n="43"/>
             <lb ed="#P" n="1"/>species vero continentur et non continent genera, in pluribus enim
@@ -579,9 +579,9 @@
         </div>
         
         
-        <div>
-          <head>De communibus generis et proprii</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1142">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1144">De communibus generis et proprii</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1147">
             <lb ed="#P" n="12"/>Generis autem et proprii commune quidem est sequi species;
             <lb ed="#P" n="13"/>nam si homo est, animal est, et si homo est, risibile est. et
             aequa<lb ed="#P" n="14" break="no"/>liter praedicari genus de speciebus et proprium de his quae illo
@@ -592,9 +592,9 @@
         </div>
         
         
-        <div>
-          <head>De propriis generis et proprii</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1164">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1166">De propriis generis et proprii</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1169">
             <lb ed="#P" n="19"/>Differt autem, quoniam genus quidem prius est, posterius vero
             <lb ed="#P" n="20"/>proprium; oportet enim esse animal, dehinc dividi differentiis et
             pro<pb ed="#P" n="44" break="no"/><lb ed="#P" n="1" break="no"/>priis, et genus quidem de pluribus speciebus praedicari, proprium vero
@@ -612,9 +612,9 @@
         </div>
         
         
-        <div>
-          <head>De communibus generis et accidentis</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1202">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1204">De communibus generis et accidentis</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1207">
             <lb ed="#P" n="13"/>Generis vero et accidentis commune est de pluribus,
             quemad<lb ed="#P" n="14" break="no"/>modum dictum est, praedicari, sive separabilium sit sive
             insepara<lb ed="#P" n="15" break="no"/>bilium; etenim moveri de pluribus et nigrum de corvis et de
@@ -623,9 +623,9 @@
         </div>
         
         
-        <div>
-          <head>De propriis generis et accidentis</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1219">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1221">De propriis generis et accidentis</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1224">
             <lb ed="#P" n="18"/>Differt autem genus ab accidenti, quoniam genus ante species
             <lb ed="#P" n="19"/>est, accidentia vero speciebus posteriora sunt; nam si etiam
             insepara<lb ed="#P" n="20" break="no"/>bile sumatur accidens, sed tamen prius est illud, cui accidit, quam
@@ -641,7 +641,7 @@
             <lb ed="#P" n="8"/>niger, et quemadmodum se Socrates habeat dicis quoniam sedet vel
             <lb ed="#P" n="9"/>ambulat.
           </p>
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e1257">
             <lb ed="#P" n="10"/>Genus vero quo ab aliis quattuor differat dictum est. congingit
             <lb ed="#P" n="11"/>autem etiam unumquodque aliorum differre ab aliis quattuor, ut cum
             <lb ed="#P" n="12"/>quinque sint, unumquodque autem ab aliis quattuor differat, quater
@@ -669,9 +669,9 @@
         </div>
         
         
-        <div>
-          <head>De communibus differentiae et speciei</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1310">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1312">De communibus differentiae et speciei</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1315">
             <lb ed="#P" n="11"/>Commune ergo differentiae et speciei est aequaliter participari;
             ho<lb ed="#P" n="12" break="no"/>mine enim aequaliter participant particulares homines et rationali
             <lb ed="#P" n="13"/>differentia. commune vero est et semper adesse his quae
@@ -680,9 +680,9 @@
         </div>
         
         
-        <div>
-          <head>De propriis differentiae et speciei</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1327">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1329">De propriis differentiae et speciei</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1332">
             <lb ed="#P" n="16"/>Proprium autem differentiae quidem est in eo quod quale sit
             <lb ed="#P" n="17"/>praedicari, speciei autem in eo quod quid est; nam et si homo velut
             <lb ed="#P" n="18"/>qualitas accipiatur, non hic simpliciter erit qualitas sed secundum
@@ -703,9 +703,9 @@
         </div>
         
         
-        <div>
-          <head>De communibus differentiae et proprii</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1371">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1373">De communibus differentiae et proprii</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1376">
             <lb ed="#P" n="13"/>Differentia vero et propritm commune quidem habent aequaliter
             <lb ed="#P" n="14"/>participari ab his quae eorum participant; aequaliter enim rationabilia
             <lb ed="#P" n="15"/>rationabilia sunt et risibilia risibilia. et semper et omni adesse
@@ -717,9 +717,9 @@
         </div>
         
         
-        <div>
-          <head>De propriis differentiae et proprii</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1395">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1397">De propriis differentiae et proprii</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1400">
             <pb ed="#P" n="48"/>
             <lb ed="#P" n="2"/>Proprium autem differentiae est, quoniam haec quidem de
             plu<lb ed="#P" n="3" break="no"/>ribus speciebus dicitur saepe, ut rationale de homine et de deo,
@@ -731,9 +731,9 @@
         </div>
         
         
-        <div>
-          <head>De communibus differentiae et accidentis</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1419">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1421">De communibus differentiae et accidentis</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1424">
             <lb ed="#P" n="9"/>Differentiae autem et accidenti commune quidem est de pluribus
             <lb ed="#P" n="10"/>dici; commune vero est ad ea quae sunt inseparabilia accidentia
             sem<lb ed="#P" n="11" break="no"/>per et omnibus adesse; bipes enim semper adest omnibus corvis et
@@ -742,9 +742,9 @@
         </div>
         
         
-        <div>
-          <head>De propriis differentiae et accidentis</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1436">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1438">De propriis differentiae et accidentis</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1441">
             <lb ed="#P" n="15"/>Differunt autem quoniam differentia quidem continet et non
             con<lb ed="#P" n="16" break="no"/>tinetur, continet enim rationabilitas hominem, accidentia vero quodam
             <lb ed="#P" n="17"/>quidem modo continent eo quod in pluribus sunt, quodam vero modo
@@ -753,7 +753,7 @@
             inremissi<lb ed="#P" n="19" break="no"/>bilis, accidentia vero magis et minus recipiunt. et inpermixtae
             qui<lb ed="#P" n="20" break="no"/>dem sunt contrariae differentiae, mixta vero contraria accidentia.
           </p>
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e1459">
             <pb ed="#P" n="49"/>
             <lb ed="#P" n="1"/>Huiusmodi quidem communiones et proprietates differentiae et
             <lb ed="#P" n="2"/>ceterorum sunt, species vero quo quidem differat a genere et
@@ -763,9 +763,9 @@
         </div>
         
         
-        <div>
-          <head>De communibus speciei et proprii</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1473">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1475">De communibus speciei et proprii</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1478">
             <lb ed="#P" n="6"/>Speciei autem et proprii commune est de se invicem praedicari:
             <lb ed="#P" n="7"/>nam si homo, risibile est, et si risibile, homo est; risibile vero
             quo<lb ed="#P" n="8" break="no"/>niam et secundum id quod natum est sumi oportet, saepe iam
@@ -775,9 +775,9 @@
         </div>
         
         
-        <div>
-          <head>De propriis speciei et proprii</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1492">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1494">De propriis speciei et proprii</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1497">
             <lb ed="#P" n="12"/>Differt autem species a proprio, quoniam species quidem potest
             <lb ed="#P" n="13"/>et aliis genus esse, proprium vero et aliarum specierum esse
             inpossi<lb ed="#P" n="14" break="no"/>bile est. et species quidem ante subsistit quam proprium, proprium
@@ -795,9 +795,9 @@
         </div>
         
         
-        <div>
-          <head>De communibus speciei et accidentis</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1530">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1532">De communibus speciei et accidentis</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1535">
             <lb ed="#P" n="4"/>Speciei vero et accidentis commune quidem est de pluribus
             prae<lb ed="#P" n="5" break="no"/>dicari; rarae vero aliae sunt communitates, propterea quoniam quam
             <lb ed="#P" n="6"/>plurimum a se distant accidens et id cui accidit.
@@ -805,9 +805,9 @@
         </div>
         
         
-        <div>
-          <head>De propriis speciei et accidentis</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1545">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1547">De propriis speciei et accidentis</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1550">
             <lb ed="#P" n="8"/>Propria vero utriusque sunt, speciei quidem in eo quod quid est
             <lb ed="#P" n="9"/>praedicari de his quorum est species, accidentis autem in eo quod
             <lb ed="#P" n="10"/>quale quiddam est vel aliquo modo se habens, et unamquamque
@@ -820,16 +820,16 @@
             <lb ed="#P" n="17"/>Aethiops enim alio Aethiope habebit colorem vel intentum amplius
             <lb ed="#P" n="19"/>vel remissum secundum nigredinem.
           </p>
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e1576">
             <lb ed="#P" n="19"/>Restat igitur de proprio et accidenti dicere; quo enim proprium
             <lb ed="#P" n="20"/>a specie et differentia et genere differt, dictum est.
           </p>
         </div>
         
         
-        <div>
-          <head>De communibus proprii et accidentis</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1584">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1586">De communibus proprii et accidentis</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1589">
             <pb ed="#P" n="51"/>
             <lb ed="#P" n="2"/>Commune autem proprii et inseparabilis accidentis est, quod
             <lb ed="#P" n="3"/>praeter ea nunquam constant illa, in quibus considerantur;
@@ -840,9 +840,9 @@
         </div>
         
         
-        <div>
-          <head>De propriis proprii et accidentis</head>
-          <p>
+        <div xml:id="P8h6b5-d1eXcy-Dd1e1606">
+          <head xml:id="P8h6b5-d1eXcy-Hd1e1608">De propriis proprii et accidentis</head>
+          <p xml:id="P8h6b5-d1eXcy-d1e1611">
             <lb ed="#P" n="8"/>Differt autem quoniam proprium uni soli speciei adest,
             quemad<lb ed="#P" n="9" break="no"/>modum risibile homini; inseparabile vero accidens, ut nigrum, non
             <lb ed="#P" n="10"/>solum Aethiopi sed etiam corvo adest et carboni et ebeno et
@@ -851,7 +851,7 @@
             <lb ed="#P" n="13"/>praedicatur. et propriorum quidem aequalis est participatio,
             acci<lb ed="#P" n="14" break="no"/>dentium vero haec quidem magis, illa vero minus.
           </p>
-          <p>
+          <p xml:id="P8h6b5-d1eXcy-d1e1629">
             <lb ed="#P" n="15"/>Sunt quidem etiam aliae communitates vel proprietates eorum
             <lb ed="#P" n="16"/>quae dicta sunt, sed sufficiunt etiam haec ad discretionem eorum
             <lb ed="#P" n="17"/>communitatisque traditionem.
